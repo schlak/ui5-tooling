@@ -11,7 +11,7 @@ on:
 jobs:
   test:
     name: General checks and tests
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
 
     - uses: actions/checkout@v3
