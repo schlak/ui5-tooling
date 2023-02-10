@@ -8,8 +8,8 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
 > There are two major versions of UI5 Tooling currently available:
-> - [UI5 Tooling v3](https://sap.github.io/ui5-tooling/v3)- Latest and stable version 🎉
-> - [UI5 Tooling v2](https://sap.github.io/ui5-tooling/v2)- In maintenance ⚠️
+> - [UI5 Tooling v3](https://sap.github.io/ui5-tooling/v3) - Latest and stable version 🎉
+> - [UI5 Tooling v2](https://sap.github.io/ui5-tooling/v2) - In maintenance ⚠️
 
 
 ## Resources
@@ -17,10 +17,9 @@
 - [API Reference](https://sap.github.io/ui5-tooling/v3/api/)
 - [CLI Documentation](https://sap.github.io/ui5-tooling/v3/pages/CLI/)
 - [Project Configuration](https://sap.github.io/ui5-tooling/v3/pages/Configuration/)
-- 🎬 [UI5con@SAP 2018 Talk](https://www.youtube.com/watch?v=iQ07oe26y_k)
 - 🎬 [UI5con@SAP 2020 Talk](https://www.youtube.com/watch?v=8IHoVJLKN34)
+- 🎬 [UI5con@SAP 2018 Talk](https://www.youtube.com/watch?v=iQ07oe26y_k)
 - [Contribution Guidelines](https://github.com/SAP/ui5-tooling/blob/main/CONTRIBUTING.md)
-- [Roadmap](https://github.com/SAP/ui5-tooling/issues/101)
 
 ## Modules
 UI5 Tooling consists of multiple modules. Each one is managed in a separate repository:
@@ -39,4 +38,4 @@ UI5 Tooling consists of multiple modules. Each one is managed in a separate repo
 Please check our [Contribution Guidelines](https://github.com/SAP/ui5-tooling/blob/main/CONTRIBUTING.md).
 
 ## Support
-Please follow our [Contribution Guidelines](https://github.com/SAP/ui5-tooling/blob/main/CONTRIBUTING.md#report-an-issue) on how to report an issue. Or chat with us in the [`#tooling`](https://openui5.slack.com/archives/C0A7QFN6B) channel of the [OpenUI5 Community Slack](https://ui5-slack-invite.cfapps.eu10.hana.ondemand.com/). For public Q&A, use the [`ui5-tooling` tag on Stack Overflow](https://stackoverflow.com/questions/tagged/ui5-tooling).
+Please see how to [report an issue](https://github.com/SAP/ui5-tooling/blob/main/CONTRIBUTING.md#report-an-issue). Or chat with us in the [`#tooling`](https://openui5.slack.com/archives/C0A7QFN6B) channel of the [OpenUI5 Community Slack](https://ui5-slack-invite.cfapps.eu10.hana.ondemand.com/). For public Q&A, use the [`ui5-tooling` tag on Stack Overflow](https://stackoverflow.com/questions/tagged/ui5-tooling).
